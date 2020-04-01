@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DynamicTable_ReactHooks/static/css/main.1a90b219.chunk.css",
+    "main.js": "/DynamicTable_ReactHooks/static/js/main.cd62133c.chunk.js",
+    "main.js.map": "/DynamicTable_ReactHooks/static/js/main.cd62133c.chunk.js.map",
+    "runtime-main.js": "/DynamicTable_ReactHooks/static/js/runtime-main.f35a1fb6.js",
+    "runtime-main.js.map": "/DynamicTable_ReactHooks/static/js/runtime-main.f35a1fb6.js.map",
+    "static/css/2.de424728.chunk.css": "/DynamicTable_ReactHooks/static/css/2.de424728.chunk.css",
+    "static/js/2.55845bc4.chunk.js": "/DynamicTable_ReactHooks/static/js/2.55845bc4.chunk.js",
+    "static/js/2.55845bc4.chunk.js.map": "/DynamicTable_ReactHooks/static/js/2.55845bc4.chunk.js.map",
+    "index.html": "/DynamicTable_ReactHooks/index.html",
+    "precache-manifest.1ba22ac22763db88ef870b404101cd29.js": "/DynamicTable_ReactHooks/precache-manifest.1ba22ac22763db88ef870b404101cd29.js",
+    "service-worker.js": "/DynamicTable_ReactHooks/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/DynamicTable_ReactHooks/static/css/2.de424728.chunk.css.map",
+    "static/css/main.1a90b219.chunk.css.map": "/DynamicTable_ReactHooks/static/css/main.1a90b219.chunk.css.map",
+    "static/js/2.55845bc4.chunk.js.LICENSE.txt": "/DynamicTable_ReactHooks/static/js/2.55845bc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f35a1fb6.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.55845bc4.chunk.js",
+    "static/css/main.1a90b219.chunk.css",
+    "static/js/main.cd62133c.chunk.js"
+  ]
+}
