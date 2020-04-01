@@ -1,0 +1,17 @@
+.dynamic-table.table-striped {
+    width: 95%;
+    margin: 10px auto;
+}
+
+.dynamic-table.table-striped .tr-new,
+.dynamic-table.table-striped .tr-submit {
+    background: #FFFFFF;
+}
+
+.dynamic-table.table-striped .form-control {
+    border-radius: 0;
+}
+
+.dynamic-table.table-striped .tr-new i {
+    margin-right: 5px;
+}
